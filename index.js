@@ -3,10 +3,10 @@ function scuberGreetingForFeet(feet) {
     return 'This one is on me!';
   }
   elseif (feet > 2500) {
-    return "No can do.";
+    return 'No can do.';
   }
   elseif (feet > 2000){
-    return "I will gladly take your thirty bucks.";
+    return 'I will gladly take your thirty bucks.';
   }
 }
 
